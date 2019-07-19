@@ -1,12 +1,15 @@
 # refactor
+(pylint throughout)
 1. conda 3.6 environment
-2. code flow
-3. module level
-4. method level
-5. functions level
-6. nomenclature
-7. modularization
-8. addition of unit tests
-9. mypy params
-10. doc strings
-11. sphinx doc
+2. clone and checkout branch
+3. pycharm
+4. code flow
+5. module level
+6. method level
+7. functions level
+8. nomenclature
+9. modularization
+10. addition of unit tests
+11. mypy params
+12. doc strings
+13. sphinx doc
