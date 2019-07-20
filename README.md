@@ -3,7 +3,7 @@
 1. conda 3.6 environment
 2. clone and checkout branch
 3. pycharm
-4. code flow
+4. code flow + documentation
 5. module level
 6. method level
 7. functions level
