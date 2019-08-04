@@ -5,6 +5,7 @@
   * conda create -n **envname** python=3
 2. clone and checkout branch
 3. pycharm
+ * Choose Interpreter @ echo $CONDA_PREFIX
 4. code flow + documentation
 5. module level
 6. method level
