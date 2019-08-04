@@ -1,6 +1,8 @@
 # refactor
 (pylint throughout)
 1. conda 3.6 environment
+  * https://docs.conda.io/en/latest/miniconda.html
+  * conda create -n <env name> python=3
 2. clone and checkout branch
 3. pycharm
 4. code flow + documentation
