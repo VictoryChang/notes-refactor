@@ -7,12 +7,13 @@
 3. pycharm
  * Choose Interpreter @ echo $CONDA_PREFIX
 4. code flow + documentation
-5. module level
-6. method level
-7. functions level
-8. nomenclature
-9. modularization
-10. addition of unit tests
-11. mypy params
-12. doc strings
-13. sphinx doc
+5. pycharm auto format (fixes some pep8 and linting issues automatically)
+6. module level
+7. method level
+8. functions level
+9. nomenclature
+10. modularization
+11. addition of unit tests (including external apis that can later be refactored)
+12. mypy params and returns (code level documentation)
+13. doc strings
+14. sphinx doc (help expose the library apis)
