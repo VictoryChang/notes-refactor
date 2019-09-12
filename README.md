@@ -1,5 +1,6 @@
 # refactor
 (pylint throughout)
+0. Move code into a Git Repository (if not already done so)
 1. conda 3.6 environment
   * https://docs.conda.io/en/latest/miniconda.html
   * conda create -n **envname** python=3
@@ -8,7 +9,7 @@
  * Choose Interpreter @ echo $CONDA_PREFIX
 4. code flow + documentation
 5. pycharm auto format (fixes some pep8 and linting issues automatically)
-6. module level
+6. module level, removing dead code throughout
 7. method level
 8. functions level
 9. nomenclature
